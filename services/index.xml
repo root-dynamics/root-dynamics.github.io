@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Root-Dynamics</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Root-Dynamics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acquisitions</title>
+      <link>/services/acquisitions/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/services/acquisitions/</guid>
+      <description>Acquisitions is the field of information technology concerned with the acquiring, fulfillment, and providing of hardware to meet business unique needs.</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>/services/security/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/services/security/</guid>
+      <description>Auditing is the information assurance practice of validating compliance. Certain industries may be required to meet regulatory standards to store sensitive data.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Consultancy</title>
+      <link>/services/cloud_consultancy/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/cloud_consultancy/</guid>
+      <description>Custom solutions architecting made to fit your business&amp;rsquo; unique needs. Cloud native and multi-cloud solutions enabled.</description>
+    </item>
+    
+  </channel>
+</rss>
