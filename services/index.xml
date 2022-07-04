@@ -6,32 +6,40 @@
     <description>Recent content in Services on Root-Dynamics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Apr 2021 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Consulting</title>
+      <link>/services/cloud_consultancy/</link>
+      <pubDate>Tue, 06 Apr 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/cloud_consultancy/</guid>
+      <description>Custom solutions architecting made to fit your business&amp;rsquo; unique needs. Specializing in Cloud native and multi-cloud solutions. Our Strata Root-Dynamics offers consulting on creating Cloud Solutions tailored to your business&amp;rsquo; needs. With an approach backed by Site Reliability Engineering fundamentals and a cost-centric focus, we provide best in class solutions.
+Core Competencies The public cloud and it&amp;rsquo;s associated problem space are vast, to give an idea of what we can offer your business here are some brief points of interest.</description>
+    </item>
+    
+    <item>
+      <title>Managed Solutions</title>
+      <link>/services/managed_solutions/</link>
+      <pubDate>Fri, 09 Apr 2021 15:15:26 +1000</pubDate>
+      
+      <guid>/services/managed_solutions/</guid>
+      <description>Root Dynamics is a leading managed service provider for all your IT needs. We provide a range of services that are designed to make life easier for you.
+Whether it&amp;rsquo;s just monitoring or we are managing your entire IT infrastructure, Root Dynamics provides the best quality service.
+This way you can focus on running your business and not worry about any of the technology headaches.
+With managed services, you get the peace of mind that everything on your network is being monitored 24/7.</description>
+    </item>
+    
     <item>
       <title>Acquisitions</title>
       <link>/services/acquisitions/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <pubDate>Mon, 05 Apr 2021 15:15:26 +1000</pubDate>
       
       <guid>/services/acquisitions/</guid>
-      <description>Acquisitions is the field of information technology concerned with the acquiring, fulfillment, and providing of hardware to meet business unique needs.</description>
-    </item>
-    
-    <item>
-      <title>Security</title>
-      <link>/services/security/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/services/security/</guid>
-      <description>Auditing is the information assurance practice of validating compliance. Certain industries may be required to meet regulatory standards to store sensitive data.</description>
-    </item>
-    
-    <item>
-      <title>Cloud Consultancy</title>
-      <link>/services/cloud_consultancy/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>/services/cloud_consultancy/</guid>
-      <description>Custom solutions architecting made to fit your business&amp;rsquo; unique needs. Cloud native and multi-cloud solutions enabled.</description>
+      <description>Acquisitions in the field of information technology is concerned with the purchase and fulfillment, of hardware or software to meet a business&amp;rsquo; unique needs.
+Knowing what to buy, who to buy it from, and how to handle licensing can quickly become overwhelming.
+We are authorized resellers of:
+Dell Lenovo Ubiquiti Cisco Hardware The three main options for the acquisitions of information technology equipment are
+Buying Renting Leasing Each with its own set of considerations.</description>
     </item>
     
   </channel>
