@@ -1,32 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/services/cloud_consultancy/</loc>
-    <lastmod>2021-04-06T15:15:26+10:00</lastmod>
-  </url><url>
-    <loc>/services/managed_solutions/</loc>
-    <lastmod>2021-04-09T15:15:26+10:00</lastmod>
-  </url><url>
-    <loc>/services/acquisitions/</loc>
-    <lastmod>2021-04-05T15:15:26+10:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-09T15:15:26+10:00</lastmod>
-  </url><url>
-    <loc>/services/</loc>
-    <lastmod>2021-04-09T15:15:26+10:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url><url>
-    <loc>/contact/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/404/</loc>
-  </url><url>
-    <loc>/tags/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://root-dynamics.com/</loc></url>
+  <url><loc>https://root-dynamics.com/services/</loc></url>
+  <url><loc>https://root-dynamics.com/services/cloud_consultancy/</loc></url>
+  <url><loc>https://root-dynamics.com/services/managed_solutions/</loc></url>
+  <url><loc>https://root-dynamics.com/services/security/</loc></url>
+  <url><loc>https://root-dynamics.com/services/acquisitions/</loc></url>
+  <url><loc>https://root-dynamics.com/about/</loc></url>
+  <url><loc>https://root-dynamics.com/contact/</loc></url>
 </urlset>
